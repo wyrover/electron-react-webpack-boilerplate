@@ -12,3 +12,9 @@ Setup
 
 Run  
 `npm start`
+
+## Development
+Develop your Electron app with all benefits and Hot Module Replacement.
+Run these two commands simultaneously in different consoles.  
+`npm run start-dev-server
+npm run start-dev-client`  
