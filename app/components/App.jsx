@@ -1,9 +1,11 @@
 import React from 'react';
 
-export default class App extends React.Component {
-  render() {
+var AppClass = React.createClass({
+  render: function() {
     return (
       <h1>Welcome!</h1>
     );
   }
-}
+});
+
+module.exports = AppClass;
