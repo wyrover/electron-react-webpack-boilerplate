@@ -1,6 +1,6 @@
 import React from 'react';
 
-var AppClass = React.createClass({
+var App = React.createClass({
   render: function() {
     return (
       <h1>Welcome!</h1>
@@ -8,4 +8,4 @@ var AppClass = React.createClass({
   }
 });
 
-module.exports = AppClass;
+module.exports = App;
