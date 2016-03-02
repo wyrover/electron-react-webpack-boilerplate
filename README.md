@@ -1,6 +1,6 @@
 # electron-react-webpack-boilerplate
 
-Boilerplate to kickstart creating an app with Electron + React + Webpack.
+electron + es6 + react + webpack
 
 
 安装
