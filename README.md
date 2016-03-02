@@ -1,5 +1,21 @@
 # electron-react-webpack-boilerplate
+
 Boilerplate to kickstart creating an app with Electron + React + Webpack.
+
+
+安装
+
+```
+cnpm install react react-dom --save
+cnpm install babel-core babel-loader babel-preset-es2015 babel-preset-react babel-preset-react-hmre css-loader style-loader webpack webpack-dev-server webpack-merge --save-dev
+```
+
+运行
+```
+npm start
+```
+
+
 
 ## Getting started
 Download  
